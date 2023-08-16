@@ -188,12 +188,12 @@ font-weight: 900;
 }
 
 #home {
-    padding-top:130px;
+    padding-top:90px; /*Originally 130*/
     padding-bottom:200px;
     color:#fff;
 }
 .head-main {
-    font-size:80px ;
+    font-size:100px ; /*originally 80 */
     font-weight:900;
 /*NEW ADDITION FOR Info tech solutions text */
 .head-main1 {
