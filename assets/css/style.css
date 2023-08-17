@@ -88,7 +88,7 @@ p {
 }
 
 .g-pad-bottom {
-    padding-bottom:40px;
+    padding-bottom:20px; /*originally 40px */
 }
 .for-full-back {
      /* IE 8 */
