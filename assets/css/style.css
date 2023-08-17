@@ -1,4 +1,4 @@
-﻿
+
 /*=============================================================
     Authour URI: www.binarytheme.com
     License: Commons Attribution 3.0
@@ -188,18 +188,21 @@ font-weight: 900;
 }
 
 #home {
-    padding-top:30px; /*Originally 130*/
-    padding-bottom:150px; /*Originally 200*/
+    padding-top:30px; /*originally 130 */
+    padding-bottom:150px; /*originally 200px */
     color:#fff;
 }
 .head-main {
-    font-size:100px ; /*originally 80 */
+    font-size:100px ;
     font-weight:900;
+    
 }
 /*NEW ADDITION FOR Info tech solutions text */
 .head-main1 {
     font-size:55px ;
-    font-weight:800;    
+    font-weight:800;
+	
+    
 }
 .head-sub-main {
     font-size:40px ;
@@ -421,24 +424,4 @@ font-size: 30px;
     padding:20px 50px 20px 50px;
     text-align:right;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
